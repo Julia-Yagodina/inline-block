@@ -1,0 +1,13 @@
+.out{
+    display:flex;
+}
+.out-list{
+    display:flex;
+    margin:0 auto;
+}
+.first{
+list-style-type:circle
+}
+.rome{
+    list-style-type: upper-roman;
+}
