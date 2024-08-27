@@ -1,0 +1,17 @@
+div{
+    display:flex;
+    
+}
+table{
+    display:flex;
+    font-size:small;
+    border: 1px solid black;
+    width:330px;
+    margin: 0 auto;
+}
+th, td{
+    border: 1px solid black; 
+    width:110px;
+    padding:5px;
+    
+}
