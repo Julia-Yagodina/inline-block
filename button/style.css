@@ -1,0 +1,25 @@
+div{
+    display:flex;
+    background-color:rgb(65, 22, 100);
+    height:30px;
+    width:100%;
+    
+}
+.major{
+background-color:orangered;
+}
+button{
+    transition:0.5s;
+    height:30px;
+    width:100px;
+    margin:0;
+    background-color:rgb(65, 22, 100);
+    color:white;
+    text-align: center;
+    border:none;  
+}
+button:hover{
+    color:white;
+    background-color:aqua;
+    opacity:0.2;
+}
